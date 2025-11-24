@@ -1,10 +1,10 @@
-# HandCode V3.0 🤟
+# SLIVE
 
 한국 수어(KSL) 실시간 통역 시스템
 
 ## 📋 프로젝트 소개
 
-HandCode V3.0은 AI 기반 한국 수어 인식 및 실시간 통역 시스템입니다. MediaPipe와 TensorFlow.js를 활용하여 웹캠을 통해 수어를 인식하고 텍스트로 변환합니다.
+SLIVE는 AI 기반 한국 수어 인식 및 실시간 통역 시스템입니다. MediaPipe와 TensorFlow.js를 활용하여 웹캠을 통해 수어를 인식하고 텍스트로 변환합니다.
 
 ## ✨ 주요 기능
 
@@ -43,8 +43,7 @@ HandCode V3.0은 AI 기반 한국 수어 인식 및 실시간 통역 시스템�
 
 ```bash
 # 저장소 클론
-git clone https://github.com/YOUR_USERNAME/HandCode-V3.0.git
-cd HandCode-V3.0
+git clone https://github.com/rlawlgns02/SLIVE_prj
 
 # 필요한 패키지 설치
 pip install flask flask-cors
@@ -62,7 +61,7 @@ python app_flask.py
 ## 📁 프로젝트 구조
 
 ```
-HandCode-V3.0/
+SLIVE/
 ├── app_flask.py          # Flask 백엔드 서버
 ├── requirements.txt      # Python 패키지 의존성
 ├── templates/            # HTML 템플릿
@@ -128,13 +127,6 @@ HandCode-V3.0/
 3. "통역 시작" 클릭
 4. 수어 제스처 수행
 
-## 🤝 기여하기
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 라이선스
 
@@ -153,3 +145,4 @@ HandCode Team
 ---
 
 **Note**: 이 프로젝트는 교육 및 연구 목적으로 개발되었습니다.
+
